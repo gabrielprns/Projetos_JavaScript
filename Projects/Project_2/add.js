@@ -6,7 +6,7 @@ números.unshift(0);
 alert(números);
 
 //Meio
-números.splice(3,2,"b");
+números.splice(4,2,"b");
 alert(números);
 
 //Final
