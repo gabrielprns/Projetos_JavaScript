@@ -1,4 +1,4 @@
-//Adicionando Elementos
+//Adicionando Elementos a lista
 const números = [1,2,3];
 
 //Início
