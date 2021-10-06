@@ -1,5 +1,7 @@
 //Encontrando Elementos Primitivos.
 
+//Lista de valores a seguir:
+
 const num = [6,4,5,3,8,7,9];
 
 console.log(num.indexOf(5) !==-1);
