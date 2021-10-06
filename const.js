@@ -1,4 +1,4 @@
-//Encontrando Elementos Primitivos.
+
 
 const num = [6,4,5,3,8,7,9];
 
