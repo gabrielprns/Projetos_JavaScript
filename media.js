@@ -1,9 +1,9 @@
-const array = [70,70,80];
+const array = [70,90,80];
 
 alert(mediaDoAluno(array));
 
 function mediaDoAluno(notas){
-  const media 
+  const media = calcularMedia(notas);
 
   if (media < 59) return "f" ;
   if (media < 69) return "d" ;
@@ -15,4 +15,8 @@ function mediaDoAluno(notas){
 
 function calcularMedia(array) {
   let soma = 0;
+  for (let valor of array){
+    soma += valor;
+  }
+  return soma/(array.length);
 }
