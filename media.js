@@ -1,4 +1,4 @@
-const array = [95,32,80];
+const array = [95,35,80];
 
 alert(mediaDoAluno(array));
 
