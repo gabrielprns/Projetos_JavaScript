@@ -10,4 +10,4 @@ function exibirEndereço(endereço){
     alert(chave, endereço[chave]);
 }
 
-exibirEndereço(endereço);
+//exibirEndereço(endereço);
