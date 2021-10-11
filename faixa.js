@@ -33,3 +33,4 @@ let faixas3 = [
 console.log(faixas);
 console.log(faixas2);
 console.log(faixas3);
+//projeto finalizado
