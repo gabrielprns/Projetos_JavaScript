@@ -26,6 +26,6 @@ function FaixaPreço(tooltip, mínimo, máximo){
 
 let faixas3 = [
   new FaixaPreço("d",10,20),
-  new FaixaPreço("e",10,20),
-  new FaixaPreço("f",10,20)
+  new FaixaPreço("e",10,30),
+  new FaixaPreço("f",30,40)
 ]
