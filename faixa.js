@@ -29,3 +29,7 @@ let faixas3 = [
   new FaixaPreço("e",10,30),
   new FaixaPreço("f",30,40)
 ]
+
+console.log(faixas);
+console.log(faixas2);
+console.log(faixas3);
