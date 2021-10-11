@@ -3,3 +3,11 @@ let faixas = [
   {tooltip: "até R$700 a R$1000", min: 700, max: 1000},
   {tooltip: "R$1000 ou mais", min: 1000, max: 9999999}
 ];
+
+function criaFaixaPreço(tooltip, mínimo, máximo){
+  return{
+    tooltip,
+    mínimo,
+    máximo
+  }
+}
