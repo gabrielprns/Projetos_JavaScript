@@ -17,3 +17,9 @@ let faixas2=[
   criaFaixaPreço('b',100,1000),
   criaFaixaPreço('c',1000,10000)
 ]
+
+function FaixaPreço(tooltip, mínimo, máximo){
+  this.tooltip = tooltip,
+  this.mínimo = mínimo,
+  this.máximo = máximo
+}
