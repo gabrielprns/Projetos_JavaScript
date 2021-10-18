@@ -1,5 +1,5 @@
 verificarVelocidade(60);
-//verificador de velocidade
+//verificador de velocidade em KM
 function verificarVelocidade(velocidade) {
   const velocidadeMaxima = 70;
   const kmPorPonto = 5;
